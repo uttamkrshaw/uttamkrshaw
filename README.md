@@ -1,5 +1,5 @@
 
-<img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="javascript" width="100%" height="350"/>
+<img src="https://media1.giphy.com/media/zOvBKUUEERdNm/giphy.gif?cid=790b76119f735d23d52b40645f274c12e2c8f2cad4f0741d&rid=giphy.gif&ct=g" alt="javascript" width="100%" height="350"/>
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
       

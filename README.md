@@ -2,9 +2,9 @@
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="javascript" width="100%" height="350"/>
       
       
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Raghuveer Sain <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Uttam Kumar Shaw <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
-   <p align="center"> <img src="https://komarev.com/ghpvc/?username=sainRaghuveer&label=Profile%20views&color=9130c2&style=flat" alt="RAghuveer Sain" /> </p>
+   <p align="center"> <img src="https://komarev.com/ghpvc/?username=uttamkrshaw&label=Profile%20views&color=9130c2&style=flat" alt="Uttam Kr Shaw" /> </p>
       
    <h3 align="center">An analytical and detail-oriented aspiring
 Full Stack Web Developer. Capable of
@@ -18,12 +18,12 @@ product-based company.
       
    <p align="center" color:"red">
      <a href="https://github.com/DenverCoder1/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Raghuveer Sain 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
+          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Uttam Kumar Shaw 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 
  
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=sainRaghuveer" alt="raghuveerSain" /> </p>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=uttamkrshaw" alt="uttam" /> </p>
 </br>
 
   
@@ -40,7 +40,7 @@ product-based company.
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me *raghuveersain987@gmail.com*
+      - 📫 How to reach me *uttamkr5599@gmail.com*
       
       
       <hr />
@@ -50,7 +50,7 @@ product-based company.
       <br />
      <div align="center" >
       
-     <a href="https://www.linkedin.com/in/raghuveer-sain-8a15641b8/" target="_blank">
+     <a href="https://www.linkedin.com/in/uttam-kumar-aa183b126/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
       <a href="https://sainRaghuveer.github.io" target="_blank">
@@ -59,7 +59,7 @@ product-based company.
       <a href="https://twitter.com/braghuveersain" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
-      <a title="Raghuveer Sain" href="mailto:raghuveersain987@gmail.com" target="_blank">
+      <a title="Uttam Kumar SHaw " href="mailto:uttamkr5599@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>
@@ -125,17 +125,17 @@ product-based company.
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   
           <p align="center">      
-        <img alt="raghuveer Top Languages" src="https://github-readme-stats.vercel.app/api?username=sainRaghuveer&hide=contribs"/>
+        <img alt="Uttam Top Languages" src="https://github-readme-stats.vercel.app/api?username=uttamkrshaw&hide=contribs"/>
             </p>      
            <br/>
          <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Raghuveer Sain streak" src="https://github-readme-streak-stats.herokuapp.com/?user=sainRaghuveer&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
+              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="UttamKr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamkrshaw&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
         </p>                                                                                                                                              
       
         <br/>
         <br/>
            <p align="center">                                                                                                 
-          <img alt="Raghuveer Sain Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sainRaghuveer"/>
+          <img alt="Uttam Kumar Shaw Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamkrshaw"/>
           </p>                                                                 
        <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
       

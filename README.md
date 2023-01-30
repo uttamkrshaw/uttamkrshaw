@@ -22,9 +22,31 @@ product-based company.
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Uttam Kumar Shaw 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
+      
+       <br />
+
+  
+  <p>
+    <a href="https://github.com/uttamkrshaw"><span>
+        <img align="left" 
+          src="https://github-readme-stats.vercel.app/api/top-langs?username=uttamkrshaw&show_icons=true&locale=en&layout=compact&theme=github_dark&hide_border=true"
+          alt="ovi" width="45%" />
+          <img align="right"
+          src="https://github-readme-stats.vercel.app/api?username=uttamkrshaw&show_icons=true&locale=en&theme=github_dark&hide_border=true"
+          alt="ovi" width="45%"  />
+      </span></a>
+  </p>
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
+<br />
 
  
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=uttamkrshaw" alt="uttam" /> </p>
 </br>
 
   
@@ -167,6 +189,3 @@ product-based company.
       </span></a>
   </p>
   
-    <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-

@@ -47,7 +47,7 @@ product-based company.
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
-      <hr />
+      
       
       
       <h2 align="center">📱 Connect with me</h2>
@@ -70,7 +70,7 @@ product-based company.
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
-      <hr />
+     
       
       
       <h2 align="center">🚀 Languages and Tools:</h2>
@@ -127,7 +127,7 @@ product-based company.
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
-      <hr />
+     
      
       <h2 align="center">📊 My Github Stats</h2>
          <br/>   

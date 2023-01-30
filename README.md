@@ -2,7 +2,7 @@
 <img src="https://cdn.hashnode.com/res/hashnode/image/upload/v1648657506206/DRT1LznNL.gif?w=500&h=262&fit=crop&crop=entropy&auto=format,compress&gif-q=60&format=webm" alt="javascript" width="100%" height="350"/>
       
       
-   <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Uttam Kumar Shaw <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
+   <h1 align="center">Hi<img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">, I'm Uttam Kumar Shaw <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=uttamkrshaw&label=Profile%20views&color=9130c2&style=flat" alt="Uttam Kr Shaw" /> </p>
       
@@ -36,7 +36,7 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1_f8LWL7KmCxpgoGNpeX3qJAvY29UU6We/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://sainRaghuveer.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://uttamkrshaw.github.io" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
@@ -53,10 +53,10 @@ product-based company.
      <a href="https://www.linkedin.com/in/uttam-kumar-aa183b126/" target="_blank">
      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" align="center" alt="LinkedIn"> </a>
       
-      <a href="https://sainRaghuveer.github.io" target="_blank">
+      <a href="https://uttamkrshaw.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="https://twitter.com/braghuveersain" target="_blank">
+      <a href="https://twitter.com/uttamkrshaw" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
       <a title="Uttam Kumar SHaw " href="mailto:uttamkr5599@gmail.com" target="_blank">

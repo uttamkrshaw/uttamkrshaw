@@ -157,3 +157,16 @@ product-based company.
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
+    
+    <br />
+  
+  <p align="center">
+    <a href="https://github.com/uttamkrshaw"><span>
+        <img align="center"
+          src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=uttamkrshaw&theme=github_dark" width="100%" />
+      </span></a>
+  </p>
+  
+    <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
+

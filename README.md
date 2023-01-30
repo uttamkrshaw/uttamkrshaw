@@ -161,31 +161,6 @@ product-based company.
     alt="Git" />
      
      
-      <h2 align="center">📊 My Github Stats</h2>
-         <br/>   
-          <p align="center">      
-        <img alt="Uttam Top Languages" src="https://github-readme-stats.vercel.app/api?username=uttamkrshaw&hide=contribs"/>
-            </p>      
-           <br/>
-         <p align="center">
-              <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="UttamKr streak" src="https://github-readme-streak-stats.herokuapp.com/?user=uttamkrshaw&hide_border=true&theme=react&hide_border=true&bg_color=0D1117"/>
-        </p>                                                                                                                                              
-      
-        <br/>
-        <br/>
-           <p align="center">                                                                                                 
-          <img alt="Uttam Kumar Shaw Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=uttamkrshaw"/>
-          </p>                                                                 
-       <h6 align="center"> <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.</h6>
-      
-      
-      <br/>
-      <br/>
-      
-     
-      <br/>
-      <br/>
-      <br/>
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />

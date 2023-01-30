@@ -28,6 +28,8 @@ product-based company.
 </br>
 
   
+  <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
       
    ## 🙋‍♂️ About Me
       
@@ -43,7 +45,8 @@ product-based company.
       
       - 📫 How to reach me *uttamkr5599@gmail.com*
       
-      
+      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
       <hr />
       
       
@@ -65,6 +68,8 @@ product-based company.
      
      </div>
       
+      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
       <hr />
       
       
@@ -120,7 +125,8 @@ product-based company.
       
       <br/>
       
-      
+      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
+    alt="Git" />
       <hr />
      
       <h2 align="center">📊 My Github Stats</h2>

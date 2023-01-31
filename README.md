@@ -69,7 +69,7 @@ product-based company.
       
    - 🌱 I’m currently learning at Masai
       
-      - 📄 Check out my <a href="https://drive.google.com/file/d/1_f8LWL7KmCxpgoGNpeX3qJAvY29UU6We/view?usp=share_link" target="_blank" >Resume</a>
+      - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
       
       - 💻 Know more about me <a href="https://uttamkrshaw.github.io" target="_blank"  >Portfolio</a>
       

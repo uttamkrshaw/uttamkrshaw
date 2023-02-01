@@ -95,7 +95,7 @@ product-based company.
       <a href="https://twitter.com/uttamkrshaw" target="_blank">
      <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
-      <a title="Uttam Kumar SHaw " href="mailto:uttamkr5599@gmail.com" target="_blank">
+      <a title="Uttam Kumar SHaw " href="uttamkr5599@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>

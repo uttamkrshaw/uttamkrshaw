@@ -71,11 +71,11 @@ product-based company.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
       
-      - 💻 Know more about me <a href="https://uttamkrshaw.github.io" target="_blank"  >Portfolio</a>
+      - 💻 Know more about me <a href="https://uttamkrshaw.github.io/" target="_blank"  >Portfolio</a>
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me **uttamkr5599@gmail.com**
+      - 📫 How to reach me <a href="https://github.com/mailto:uttamkr5599@gmail.com">
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />
@@ -92,10 +92,8 @@ product-based company.
       <a href="https://uttamkrshaw.github.io" target="_blank">
      <img src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" align="center" alt="Portfolio"> </a>
       
-      <a href="https://twitter.com/uttamkrshaw" target="_blank">
-     <img src="https://img.shields.io/badge/Twitter-0077B5?style=for-the-badge&logo=twitter&logoColor=white" align="center" alt="Twitter"> </a>
       
-      <a title="Uttam Kumar SHaw " href="uttamkr5599@gmail.com" target="_blank">
+      <a title="Uttam Kumar Shaw " href="uttamkr5599@gmail.com" target="_blank">
      <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" align="center" alt="html5"> </a>
      
      </div>

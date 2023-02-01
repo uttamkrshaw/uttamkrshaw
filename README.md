@@ -75,7 +75,7 @@ product-based company.
       
       - 💬 Ask me about *HTML, CSS, JavaScript, React, Chakra-UI, ExpressJS, MongoDB & DSA*
       
-      - 📫 How to reach me <a href="https://github.com/mailto:uttamkr5599@gmail.com">
+      - 📫 How to reach me **amanmandal644@gmail.com**
       
       <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
     alt="Git" />

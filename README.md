@@ -1,8 +1,5 @@
 
-<img src="https://i.pinimg.com/originals/c6/3c/ae/c63cae1344766f14d9d184e5aafed065.gif" alt="javascript" height="500px" width="100%" style="vertical-align:middle;margin:50px 0px" />
-      <img align="left" src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="100%" height="10px"
-    alt="Git" />
-      
+<img src="https://i.pinimg.com/originals/20/37/a9/2037a9b577693ea5ee2bb39cdc801a04.jpg" alt="javascript" height="100%"  width="100%" style="vertical-align:middle;margin:50px 0px" />      
    <h1 align="center"><img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">Hi, I'm Uttam Kumar Shaw <img src="https://camo.githubusercontent.com/d3359cb00ab0b5ed8f2e1fe3fceb4fbaf3b614340f8c0db99c17b9f50b351770/68747470733a2f2f656d6f6a69732e736c61636b6d6f6a69732e636f6d2f656d6f6a69732f696d616765732f313533313834393433302f343234362f626c6f622d73756e676c61737365732e6769663f31353331383439343330" width="32"/></h1>
       
    <p align="center"> <img src="https://komarev.com/ghpvc/?username=uttamkrshaw&label=Profile%20views&color=9130c2&style=flat" alt="Uttam Kr Shaw" /> </p>
@@ -65,9 +62,8 @@ product-based company.
       
    ## 🙋‍♂️ About Me
       
-   - 🔭 I’m currently pursuing Full Stack Web Development
-      
-   - 🌱 I’m currently learning at Masai
+   - 🔭 I’m currently working as a Junior Developer in Frequent Research Fieldwork Solutions Pvt. Ltd       
+   - 🌱 I’m currently learning at MERN.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
       

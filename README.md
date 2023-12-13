@@ -63,7 +63,7 @@ product-based company.
    ## 🙋‍♂️ About Me
       
    - 🔭 I’m currently working as a Junior Developer in Frequent Research Fieldwork Solutions Pvt. Ltd       
-   - 🌱 I’m currently learning at MERN.
+   - 🌱 I’m currently learning MERN.
       
       - 📄 Check out my <a href="https://drive.google.com/file/d/1R0Gq3cFuy0t_2LlxlGQESS9mOV6Iehwn/view?usp=share_link" target="_blank" >Resume</a>
       
